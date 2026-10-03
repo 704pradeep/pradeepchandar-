@@ -1,4 +1,4 @@
-# Pradeepchandar K.T
+# Pradeepchandar K T
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=50&lines=AI+Application+Developer;NLP+%26+GenAI+Engineering;Full-Stack+Developer+(MERN);GenAI+Security+Intern+%40+Ncube+Beacons">
