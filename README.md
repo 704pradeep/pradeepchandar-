@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=50&lines=AI+Application+Developer;NLP+%26+GenAI+Engineering;Full-Stack+Developer+(MERN);GenAI+Security+Intern+%40+Ncube+Beacons">
 </p>
 
-<h3 align="center">Final-Year CSE Student | GenAI Security Intern @ Ncube Beacons | Backend Engineer, Whistle</h3>
+<h3 align="center">CSE graduate | GenAI Security Intern @ Ncube Beacons | Backend Engineer, Whistle</h3>
 
 - 🔭 Built **Whistle**, a deployed hyperlocal last-mile delivery platform (MERN, microservices, Gemini API)
 - 🤖 Worked on **GenAI security** at Ncube Beacons using the Claude API and prompt engineering
